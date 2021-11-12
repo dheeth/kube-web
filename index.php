@@ -10,4 +10,5 @@ echo "<br> Testing Job DSL so just written this line to push to Github and start
 echo "<br> Minor Mistake Job DSL Build Failed before";
 echo "<br> Finally this Webpage has been deployed by Jenkins DSL";
 echo "<br> All 4 Jobs are working fine and DSL worked";
+echo "<br> Testing Manual to Auto change on CI-Pipeline Devtron";
 ?>
